@@ -36,5 +36,5 @@ end
 
 #reduce-like methods
 
-def reduce_to_total(source_arry, strating_point)
+def reduce_to_total(source_array, strating_point)
 end
